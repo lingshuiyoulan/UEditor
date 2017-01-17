@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="UEditor:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="UEditor.war">
+      <element id="artifact" artifact-name="UEditor:war exploded" />
+    </root>
+  </artifact>
+</component>
